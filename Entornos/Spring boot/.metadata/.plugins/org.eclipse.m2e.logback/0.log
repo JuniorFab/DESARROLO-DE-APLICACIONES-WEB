@@ -1,0 +1,28 @@
+2024-04-17 10:13:12,492 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-17 10:13:52,326 [Worker-12: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Junior:0.0.1-SNAPSHOT @ D:\DESARROLO DE APLICACIONES WEB\Entornos\Spring boot\GestionPedidos\pom.xml.
+2024-04-17 10:13:52,488 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Junior:0.0.1-SNAPSHOT @ D:\DESARROLO DE APLICACIONES WEB\Entornos\Spring boot\GestionPedidos\pom.xml.
+2024-04-17 10:13:53,589 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-17 10:13:53,624 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-17 10:13:53,629 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DESARROLO DE APLICACIONES WEB\Entornos\Spring boot\GestionPedidos\src\test\resources
+2024-04-17 10:13:54,280 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-17 10:13:54,291 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-17 10:13:54,293 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DESARROLO DE APLICACIONES WEB\Entornos\Spring boot\GestionPedidos\src\test\resources
+2024-04-17 10:13:55,155 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Junior:0.0.1-SNAPSHOT @ D:\DESARROLO DE APLICACIONES WEB\Entornos\Spring boot\GestionPedidos\pom.xml.
+2024-04-17 10:21:47,940 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-17 10:21:54,964 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-17 10:21:54,968 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DESARROLO DE APLICACIONES WEB\Entornos\Spring boot\GestionPedidos\src\test\resources
+2024-04-17 10:23:30,796 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-17 10:23:30,832 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-17 10:23:30,834 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DESARROLO DE APLICACIONES WEB\Entornos\Spring boot\GestionPedidos\src\test\resources
+2024-04-17 10:24:41,220 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-17 10:24:48,670 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-17 10:24:48,676 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DESARROLO DE APLICACIONES WEB\Entornos\Spring boot\GestionPedidos\src\test\resources
+2024-04-17 10:25:10,631 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-17 10:25:10,649 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-17 10:25:10,651 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DESARROLO DE APLICACIONES WEB\Entornos\Spring boot\GestionPedidos\src\test\resources
+2024-04-17 10:25:30,922 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-17 10:25:31,003 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-17 10:25:31,012 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DESARROLO DE APLICACIONES WEB\Entornos\Spring boot\GestionPedidos\src\test\resources
+2024-04-17 10:27:53,184 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-17 10:27:53,333 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-17 10:27:53,336 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DESARROLO DE APLICACIONES WEB\Entornos\Spring boot\GestionPedidos\src\test\resources

@@ -1,0 +1,45 @@
+package com.example.demo;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.demo.Pedidos.Pedido;
+import com.example.demo.ServicioPedidos.ServicioPedidos;
+
+import io.swagger.v3.oas.annotations.parameters.RequestBody;
+
+@RestController
+public class Controlador {
+	@Autowired
+    private ServicioPedidos servicioPedidos;
+	
+	
+	
+	@GetMapping("/GestionPedidos")
+	public String welcome() {
+		return "Bienvenido Usari@, aqui podras crear tus pedidos ";
+	}
+
+	@GetMapping("/Buscarpedido")
+	public Pedido buscarpedidoid(@RequestParam("id") Long id) {
+		return servicioPedidos.Buscarpedido(id);
+		
+	}
+	
+	 @PostMapping("/crearPedido")
+	    public void crearPedido(@RequestBody Pedido nuevoPedido) {
+	        servicioPedidos.crearPedido(nuevoPedido);
+	        
+	    }
+	 
+	 @GetMapping("/Verlista")
+	 public List<Pedido> listaver() {
+	     return servicioPedidos.Verlista();
+	 }
+	
+}
